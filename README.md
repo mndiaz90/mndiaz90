@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mndiaz90
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning React, Next js and Typescript
 - 📫 You can reach me in linkedin https://www.linkedin.com/in/mndiaz90/
 
 <!---
