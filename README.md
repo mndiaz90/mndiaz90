@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mayler
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React and Typescript
 - 📫 You can reach me in linkedin https://www.linkedin.com/in/mndiaz90/
 
 <!---
